@@ -60,7 +60,7 @@ Para testar qualquer script em seu ambiente:
     ```
 2.  **Acessar a Pasta e o Módulo:**
     ```bash
-    cd Python-Fundamentals-Algorithms-Base/01-fundamentos
+    cd Python-Fundamentals-Algorithms-Base/1.1. Base de Programação (Python)
     ```
 3.  **Executar um Script:**
     ```bash
